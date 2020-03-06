@@ -1,0 +1,11 @@
+C:\Users\teko\source\repos\RobbersOOP\RobbersOOP\bin\Debug\netcoreapp3.1\RobbersOOP.exe
+C:\Users\teko\source\repos\RobbersOOP\RobbersOOP\bin\Debug\netcoreapp3.1\RobbersOOP.deps.json
+C:\Users\teko\source\repos\RobbersOOP\RobbersOOP\bin\Debug\netcoreapp3.1\RobbersOOP.runtimeconfig.json
+C:\Users\teko\source\repos\RobbersOOP\RobbersOOP\bin\Debug\netcoreapp3.1\RobbersOOP.runtimeconfig.dev.json
+C:\Users\teko\source\repos\RobbersOOP\RobbersOOP\bin\Debug\netcoreapp3.1\RobbersOOP.dll
+C:\Users\teko\source\repos\RobbersOOP\RobbersOOP\bin\Debug\netcoreapp3.1\RobbersOOP.pdb
+C:\Users\teko\source\repos\RobbersOOP\RobbersOOP\obj\Debug\netcoreapp3.1\RobbersOOP.csprojAssemblyReference.cache
+C:\Users\teko\source\repos\RobbersOOP\RobbersOOP\obj\Debug\netcoreapp3.1\RobbersOOP.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\RobbersOOP\RobbersOOP\obj\Debug\netcoreapp3.1\RobbersOOP.AssemblyInfo.cs
+C:\Users\teko\source\repos\RobbersOOP\RobbersOOP\obj\Debug\netcoreapp3.1\RobbersOOP.dll
+C:\Users\teko\source\repos\RobbersOOP\RobbersOOP\obj\Debug\netcoreapp3.1\RobbersOOP.pdb
