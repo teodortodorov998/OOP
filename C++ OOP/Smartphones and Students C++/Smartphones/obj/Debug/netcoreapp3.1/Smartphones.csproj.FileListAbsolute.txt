@@ -1,0 +1,22 @@
+C:\Users\teko\source\repos\Smartphones\Smartphones\bin\Debug\netcoreapp3.1\Smartphones.exe
+C:\Users\teko\source\repos\Smartphones\Smartphones\bin\Debug\netcoreapp3.1\Smartphones.deps.json
+C:\Users\teko\source\repos\Smartphones\Smartphones\bin\Debug\netcoreapp3.1\Smartphones.runtimeconfig.json
+C:\Users\teko\source\repos\Smartphones\Smartphones\bin\Debug\netcoreapp3.1\Smartphones.runtimeconfig.dev.json
+C:\Users\teko\source\repos\Smartphones\Smartphones\bin\Debug\netcoreapp3.1\Smartphones.dll
+C:\Users\teko\source\repos\Smartphones\Smartphones\bin\Debug\netcoreapp3.1\Smartphones.pdb
+C:\Users\teko\source\repos\Smartphones\Smartphones\obj\Debug\netcoreapp3.1\Smartphones.csprojAssemblyReference.cache
+C:\Users\teko\source\repos\Smartphones\Smartphones\obj\Debug\netcoreapp3.1\Smartphones.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\Smartphones\Smartphones\obj\Debug\netcoreapp3.1\Smartphones.AssemblyInfo.cs
+C:\Users\teko\source\repos\Smartphones\Smartphones\obj\Debug\netcoreapp3.1\Smartphones.dll
+C:\Users\teko\source\repos\Smartphones\Smartphones\obj\Debug\netcoreapp3.1\Smartphones.pdb
+C:\Users\teko\source\repos\C++ OOP\Smartphones and Students C++\Smartphones\bin\Debug\netcoreapp3.1\Smartphones.exe
+C:\Users\teko\source\repos\C++ OOP\Smartphones and Students C++\Smartphones\bin\Debug\netcoreapp3.1\Smartphones.deps.json
+C:\Users\teko\source\repos\C++ OOP\Smartphones and Students C++\Smartphones\bin\Debug\netcoreapp3.1\Smartphones.runtimeconfig.json
+C:\Users\teko\source\repos\C++ OOP\Smartphones and Students C++\Smartphones\bin\Debug\netcoreapp3.1\Smartphones.runtimeconfig.dev.json
+C:\Users\teko\source\repos\C++ OOP\Smartphones and Students C++\Smartphones\bin\Debug\netcoreapp3.1\Smartphones.dll
+C:\Users\teko\source\repos\C++ OOP\Smartphones and Students C++\Smartphones\bin\Debug\netcoreapp3.1\Smartphones.pdb
+C:\Users\teko\source\repos\C++ OOP\Smartphones and Students C++\Smartphones\obj\Debug\netcoreapp3.1\Smartphones.csprojAssemblyReference.cache
+C:\Users\teko\source\repos\C++ OOP\Smartphones and Students C++\Smartphones\obj\Debug\netcoreapp3.1\Smartphones.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\C++ OOP\Smartphones and Students C++\Smartphones\obj\Debug\netcoreapp3.1\Smartphones.AssemblyInfo.cs
+C:\Users\teko\source\repos\C++ OOP\Smartphones and Students C++\Smartphones\obj\Debug\netcoreapp3.1\Smartphones.dll
+C:\Users\teko\source\repos\C++ OOP\Smartphones and Students C++\Smartphones\obj\Debug\netcoreapp3.1\Smartphones.pdb
