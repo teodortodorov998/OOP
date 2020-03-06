@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\teko\\source\\repos\\C#\\OOP C#\\OOP\\OOP.csproj",
-      "projectName": "OOP",
-      "projectPath": "C:\\Users\\teko\\source\\repos\\C#\\OOP C#\\OOP\\OOP.csproj",
+      "projectUniqueName": "C:\\Users\\teko\\source\\repos\\OOPgit\\C# OOP\\Bank C#\\OOP\\Bank.csproj",
+      "projectName": "Bank",
+      "projectPath": "C:\\Users\\teko\\source\\repos\\OOPgit\\C# OOP\\Bank C#\\OOP\\Bank.csproj",
       "packagesPath": "C:\\Users\\teko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\teko\\source\\repos\\C#\\OOP C#\\OOP\\obj\\",
+      "outputPath": "C:\\Users\\teko\\source\\repos\\OOPgit\\C# OOP\\Bank C#\\OOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
