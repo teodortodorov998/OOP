@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (upr5OOP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LexicalUnit.cpp
+  DescriptorTable.cpp
+C:\Users\teko\source\repos\OOPgit\C++ OOP\DescriptorTableOOP C++\DescriptorTableOOP\DescriptorTable.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\teko\source\repos\OOPgit\C++ OOP\DescriptorTableOOP C++\DescriptorTableOOP\DescriptorTable.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\teko\source\repos\OOPgit\C++ OOP\DescriptorTableOOP C++\DescriptorTableOOP\DescriptorTable.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\teko\source\repos\OOPgit\C++ OOP\DescriptorTableOOP C++\DescriptorTableOOP\DescriptorTable.cpp(69,13): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\teko\source\repos\OOPgit\C++ OOP\DescriptorTableOOP C++\DescriptorTableOOP\DescriptorTable.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+  source.cpp
+  Generating Code...
+C:\Users\teko\source\repos\OOPgit\C++ OOP\DescriptorTableOOP C++\DescriptorTableOOP\DescriptorTable.cpp(79): warning C4715: 'DescriptorTable::Del': not all control paths return a value
+C:\Users\teko\source\repos\OOPgit\C++ OOP\DescriptorTableOOP C++\DescriptorTableOOP\DescriptorTable.cpp(45): warning C4715: 'DescriptorTable::AddLexicalUnit': not all control paths return a value
+C:\Users\teko\source\repos\OOPgit\C++ OOP\DescriptorTableOOP C++\DescriptorTableOOP\DescriptorTable.cpp(28): warning C4715: 'DescriptorTable::SearchByID': not all control paths return a value
+  upr5OOP.vcxproj -> C:\Users\teko\source\repos\OOPgit\C++ OOP\DescriptorTableOOP C++\DescriptorTableOOP\Debug\DescriptorTableOOP.exe
